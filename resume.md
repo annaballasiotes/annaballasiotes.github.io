@@ -1,6 +1,6 @@
 # Anna Ballasiotes
 
-#### M.S. Student (Geography)
+#### M.S. Student (Geography) :globe_with_meridians:
 
 Corvallis, OR
 
@@ -18,7 +18,7 @@ I am currently a graduate student at Oregon State University pursuing a masters 
 ##### Graduate Research Assistant
 _September 2018 - present_
 
-Advisor: Jamon Van Den Hoek [Conflict Ecology](http://conflict-ecology.org/) 
+Advisor: Jamon Van Den Hoek [Conflict Ecology](http://conflict-ecology.org/)
 
 - Provide support to NASA-funded Missing Millions project
     - Analyze OSM data
@@ -35,15 +35,17 @@ _August 2016 - July 2018_
 - Field Team Lead for stormwater surveys on federal installations.
 
 #### Southern Environmental Law Center
+![SELC Logo](https://www.southernenvironment.org/assets/images/next-30-website-logo@2x.png)
 >The Southern Environmental Law Center uses the power of the law
->to champion the environment of the Southeast. 
+>to champion the environment of the Southeast.
 ##### GIS Intern
 _February 2016 - May 2016_
 - Developed workflow and templates to maintain geospatial integrity of maps transferred from ArcMap to Adobe Illustrator for optimal use by both Spatial & Marketing teams
 - Utilized ArcGIS to create maps to inform environmental law and policy; assisted on projects involving census analysis
 
 #### University of North Carolina at Chapel Hill (Chapel Hill, NC)
-##### Research Assistant
+![UNC Logo](https://www.cs.unc.edu/xcms/wpfiles/resources/UNC_logo_542_png.png)
+##### Research Assistant :droplet:
 _May 2016 - June 2016_
 
 - Employ ArcGIS & R to map and quantify spatial and temporal patterns of nutrient export at the Hydrologic Unit Code 12 watershed scale in the NC Coastal Plain
@@ -54,3 +56,11 @@ _August 2013 - December 2014_
 - Facilitated and maintained RA-resident and resident-resident communication and relationship.
 - Created and maintained a positive residential living environment.
 - Managed social media accounts and publicity for the community.
+
+
+###### Education
+School | Year | Studies
+------ | ---- | -------
+UNC Chapel Hill | 2012 - 2016 | Environmental Science (B.S)
+University of Copenhagen | Spring 2015 | Geoinformatics and Natural Resources
+Oregon State University | 2018 - present | Geography (M.S.)
