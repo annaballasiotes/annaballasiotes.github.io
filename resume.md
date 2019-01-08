@@ -28,7 +28,7 @@ Advisor: Jamon Van Den Hoek [Conflict Ecology](http://conflict-ecology.org/)
 ##### Primary GIS Analyst for Morrisville Water Group
 _August 2016 - July 2018_
 
-- Employed ArcGIS to identify, display, and analyze data for various federal and municipal water-related projects involving regulatory compliance.
+- Employed ArcGIS to identify, display, and analyze data for various federal and municipal water-related projects involving regulatory compliance. 
 
 - Developed reports and programs for various federal projects involving regulatory compliance of stormwater in addition to drinking water and wastewater.
 
