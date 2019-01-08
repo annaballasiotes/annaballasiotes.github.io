@@ -17,6 +17,7 @@ I am currently a graduate student at Oregon State University pursuing a masters 
 #### Oregon State University
 ##### Graduate Research Assistant
 _September 2018 - present_
+
 Advisor: Jamon Van Den Hoek [Conflict Ecology](http://conflict-ecology.org/) 
 
 - Provide support to NASA-funded Missing Millions project
@@ -34,6 +35,8 @@ _August 2016 - July 2018_
 - Field Team Lead for stormwater surveys on federal installations.
 
 #### Southern Environmental Law Center
+>The Southern Environmental Law Center uses the power of the law
+>to champion the environment of the Southeast. 
 ##### GIS Intern
 _February 2016 - May 2016_
 - Developed workflow and templates to maintain geospatial integrity of maps transferred from ArcMap to Adobe Illustrator for optimal use by both Spatial & Marketing teams
