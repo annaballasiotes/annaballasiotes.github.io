@@ -34,7 +34,7 @@ _August 2016 - July 2018_
 
 - Field Team Lead for stormwater surveys on federal installations.
 
-#### Southern Environmental Law Center
+#### [Southern Environmental Law Center](https://www.southernenvironment.org/)
 ![SELC Logo](https://www.southernenvironment.org/assets/images/next-30-website-logo@2x.png)
 >The Southern Environmental Law Center uses the power of the law
 >to champion the environment of the Southeast.
