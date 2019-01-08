@@ -1,8 +1,6 @@
 # Anna Ballasiotes
-<<<<<<< HEAD
+
 #### M.S. Student (Geography)
-=======
->>>>>>> 72fc2a6024edb11e9597f7f4319bd1b495ca877d
 
 Corvallis, OR
 
