@@ -28,15 +28,20 @@ Advisor: Jamon Van Den Hoek [Conflict Ecology](http://conflict-ecology.org/)
 ##### Primary GIS Analyst for Morrisville Water Group
 _August 2016 - July 2018_
 
-- Employed ArcGIS to identify, display, and analyze data for various federal and municipal water-related projects involving regulatory compliance.
+- Employed ArcGIS to identify, display, and analyze data for various federal and municipal water-related projects involving regulatory compliance. 
 
 - Developed reports and programs for various federal projects involving regulatory compliance of stormwater in addition to drinking water and wastewater.
 
 - Field Team Lead for stormwater surveys on federal installations.
 
+<<<<<<< HEAD
 #### Southern Environmental Law Center
 <img src = "https://www.southernenvironment.org/assets/images/next-30-website-logo@2x.png" width = "35%" />
 
+=======
+#### [Southern Environmental Law Center](https://www.southernenvironment.org/)
+![SELC Logo](https://www.southernenvironment.org/assets/images/next-30-website-logo@2x.png)
+>>>>>>> 7a39b8ad40b55c69bf482667473b19086b6457b1
 >The Southern Environmental Law Center uses the power of the law
 >to champion the environment of the Southeast.
 ##### GIS Intern
