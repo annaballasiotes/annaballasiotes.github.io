@@ -35,7 +35,8 @@ _August 2016 - July 2018_
 - Field Team Lead for stormwater surveys on federal installations.
 
 #### Southern Environmental Law Center
-![SELC Logo](https://www.southernenvironment.org/assets/images/next-30-website-logo@2x.png)
+<img src = "https://www.southernenvironment.org/assets/images/next-30-website-logo@2x.png" width = "35%" />
+
 >The Southern Environmental Law Center uses the power of the law
 >to champion the environment of the Southeast.
 ##### GIS Intern
@@ -44,7 +45,8 @@ _February 2016 - May 2016_
 - Utilized ArcGIS to create maps to inform environmental law and policy; assisted on projects involving census analysis
 
 #### University of North Carolina at Chapel Hill (Chapel Hill, NC)
-![UNC Logo](https://www.cs.unc.edu/xcms/wpfiles/resources/UNC_logo_542_png.png)
+<img src = "https://www.cs.unc.edu/xcms/wpfiles/resources/UNC_logo_542_png.png" width = "35%" />
+
 ##### Research Assistant :droplet:
 _May 2016 - June 2016_
 
